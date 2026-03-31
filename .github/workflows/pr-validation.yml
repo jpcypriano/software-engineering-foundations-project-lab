@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       # Validar descrição da PR
       - name: Check PR description
@@ -45,10 +43,10 @@ jobs:
               core.setFailed("All checklist items must be completed.");
             }
 
-      # VALIDAÇÃO CORRETA DOS ARQUIVOS (FIX DEFINITIVO)
+      # 🔥 VALIDAÇÃO CORRETA (SEM origin/main)
       - name: Validate group folder changes
         run: |
-          echo "Checking changed files using PR context..."
+          echo "Getting changed files from PR..."
 
           BASE_SHA=${{ github.event.pull_request.base.sha }}
           HEAD_SHA=${{ github.event.pull_request.head.sha }}
