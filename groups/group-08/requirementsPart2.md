@@ -49,9 +49,9 @@ acidentes.
 risco.
 - US08 - Como usuário, quero receber alertas sobre áreas de risco para evitar acidentes.
 - US09 - Como usuário, quero acessar conteúdos educativos para aprender mais.
-US10 - Como usuário, quero realizar quizzes para testar meu conhecimento.
-        Profissional
-US11 - Como profissional de saúde, quero consultar informações confiáveis para auxiliar no atendimento.
+- US10 - Como usuário, quero realizar quizzes para testar meu conhecimento.
+-         Profissional
+- US11 - Como profissional de saúde, quero consultar informações confiáveis para auxiliar no atendimento.
 
 
 
