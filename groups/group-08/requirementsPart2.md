@@ -30,12 +30,6 @@ Define como os dados e acessos são protegidos.
 ---
 
 ## Usability (Usabilidade)
-- O sistema deve possuir interface intuitiva e responsiva, adaptável a smartphones, tablets e desktops, priorizando a experiência mobile para o público-alvo.
-- O sistema deve minimizar o número de ações para acessar funções críticas, como o botão de emergência e instruções de primeiros socorros, acessíveis em no máximo 2 toques a partir da tela inicial.
-- O sistema deve fornecer feedback visual e auditivo em todas as interações, incluindo sons de confirmação, alertas sonoros em situações de emergência e notificações auditivas para áreas de risco, tornando a experiência mais imersiva e responsiva.
-- O sistema deve utilizar linguagem simples e acessível, apresentando informações sobre animais com imagens, ícones de nível de risco e descrições objetivas para facilitar a identificação rápida.
-- O sistema deve possuir modo emergência com alto contraste, fontes legíveis e suporte auditivo, garantindo que as instruções de primeiros socorros sejam compreendidas mesmo em situações de estresse.
-- O sistema deve garantir acessibilidade básica com suporte a fontes ajustáveis, compatibilidade com leitores de tela e interações auditivas, atendendo usuários com diferentes necessidades.
 
 ### O que é:
 Define a facilidade de uso do sistema.
