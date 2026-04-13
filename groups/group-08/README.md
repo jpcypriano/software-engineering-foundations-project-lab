@@ -9,7 +9,7 @@ Serpy - Smart Education and Research Platform for Venomous Species
 * João Pedro Pavoni Cypriano
 * Gustavo Lugli
 * João Vitor Dorilêo
-* Enzo Cezar
+* Enzo Cezar Dias
 * Igor Matheus De Lima Centurião
 * Gustavo da Silva Gomes
 
