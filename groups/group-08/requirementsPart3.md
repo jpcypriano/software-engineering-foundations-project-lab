@@ -8,6 +8,8 @@
 - A infraestrutura de hospedagem será capaz de suportar múltiplos acessos simultâneos.
 - Será possível integrar APIs externas, como mapas e serviços de localização.
 - As informações sobre primeiros socorros serão baseadas em fontes oficiais e atualizadas.
+- Assume-se que os usuários permitirão o compartilhamento da localização em tempo real quando necessário para identificar ocorrências próximas.
+- Assume-se que os usuários terão conhecimento básico para utilizar o sistema.
 ---
 
 ## 6. Constraints (Restrições)
@@ -19,3 +21,4 @@
 - As tecnologias utilizadas devem estar alinhadas ao conhecimento da equipe.
 - Algumas funcionalidades avançadas poderão ser apresentadas apenas como protótipos ou simulações.
 - O projeto deve priorizar os módulos essenciais em detrimento de funcionalidades secundárias.
+
