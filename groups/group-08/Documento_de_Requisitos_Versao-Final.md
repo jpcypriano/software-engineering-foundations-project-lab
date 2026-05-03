@@ -72,32 +72,29 @@ Descreva a funcionalidade.
 
 ##  5. Requisitos Não Funcionais
 
-### 5.1 Usabilidade
-- Interface intuitiva  
-- Tempo de aprendizado < X minutos  
-- Acessibilidade  
+### 5.1 Performance (Desempenho)
+- O sistema deve responder requisições em até **2 segundos** em condições normais.
+- O sistema deve suportar no mínimo **1.000 usuários simultâneos**.
+- O carregamento de imagens deve ocorrer em até **3 segundos**.
+- O sistema deve possuir disponibilidade mínima de **99% (uptime)**.
+- As consultas ao banco de dados devem ser otimizadas para evitar lentidão.
 
-### 5.2 Eficiência
-- Tempo de resposta < X segundos  
-- Suporte a múltiplos usuários  
+### 5.2 Security (Segurança)
+- O sistema deve criptografar senhas utilizando **hash seguro**.
+- O sistema deve implementar **autenticação de usuários (login)**.
+- O sistema deve possuir **controle de acesso por níveis**:
+  - Usuário comum
+  - Profissional
+  - Administrador
+- O sistema deve utilizar **HTTPS** para comunicação segura.
+- O sistema deve seguir diretrizes da **LGPD** para proteção de dados.
 
-### 5.3 Desempenho
-- Suporte a X usuários simultâneos  
-- Estabilidade sob carga  
-
-### 5.4 Espaço
-- Limite de armazenamento  
-- Uso eficiente de memória  
-
-### 5.5 Confiabilidade
-- Disponibilidade mínima (ex: 99,9%)  
-- Recuperação de falhas  
-
-### 5.6 Segurança (Proteção)
-- Autenticação  
-- Criptografia  
-- Controle de acesso  
-
+### 5.2 Usability (Usabilidade)
+- O sistema deve ser **intuitivo e fácil de navegar**.
+- O sistema deve ser **responsivo** (adaptável a celular e desktop).
+- O sistema deve fornecer **feedback visual** (ex: carregamento, confirmação).
+- O sistema deve utilizar linguagem clara e acessível.
+- O sistema deve possuir acesso rápido a **instruções de emergência**.
 ---
 
 ##  6. Requisitos Organizacionais
