@@ -144,15 +144,39 @@ Liste os principais envolvidos:
 - O sistema deverá ser hospedado em ambiente de servidor, podendo ser em infraestrutura local (on-premise) ou em nuvem.
 - O sistema deverá exigir conexão com a internet para seu funcionamento, sendo recomendado o uso de conexão estável e de boa velocidade.
 - O acesso ao sistema deverá ocorrer por meio de navegadores web, permitindo sua utilização em diferentes dispositivos conectados à rede.
-- O sistema deverá utilizar protocolos seguros de comunighfyt
+- O sistema deverá utilizar protocolos seguros de comunicação (HTTPS), garantindo a proteção dos dados trafegados.
+
+- O sistema deverá registrar logs das principais operações realizadas pelos usuários, incluindo autenticação (login e logout), cadastros, missões feitas e bônus por participação.
+- O sistema deverá registrar logs de erros e falhas, permitindo a identificação e correção de problemas.
+- Os logs deverão conter informações como data, hora, usuário e ação realizada.
+- Os registros de logs deverão ser armazenados de forma segura e acessível apenas a usuários autorizados (ex: administradores).
+
 
 ### 6.2 Operacionais
-- Logs  
-- Monitoramento  
+- O sistema deverá registrar logs das principais operações realizadas pelos usuários, incluindo autenticação (login e logout), cadastros, missões feitas e bônus por participação.
+- O sistema deverá registrar logs de erros e falhas, permitindo a identificação e correção de problemas.
+- Os logs deverão conter informações como data, hora, usuário e ação realizada.
+- Os registros de logs deverão ser armazenados de forma segura e acessível apenas a usuários autorizados (ex: administradores).
+  
+- O sistema deverá possuir mecanismos de monitoramento para verificar sua disponibilidade e funcionamento contínuo.
+- Deverá ser possível identificar falhas, lentidão ou indisponibilidade do sistema.
+- O sistema deverá possibilitar ações de próximos níveis para aprendizagem rápidas todas as vezes que eles passarem de um nível.
+ 
 
 ### 6.3 Desenvolvimento
-- Versionamento (Git)  
-- Padrões de código  
-- Testes automatizados  
+- O código-fonte do sistema deverá ser gerenciado por meio de sistema de controle de versão, utilizando a ferramenta Git.
+- O projeto deverá manter um repositório centralizado, permitindo o controle de alterações e o histórico de versões.
+- As alterações no código deverão ser registradas por meio de commits organizados e documentados.
+
+- O desenvolvimento do sistema deverá seguir padrões de codificação.
+O código deverá utilizar nomenclaturas padronizadas para variáveis, funções e estruturas.
+O projeto deverá manter uma estrutura organizada de arquivos e módulos.
+O código deverá ser documentado sempre que necessário para facilitar o entendimento por outros desenvolvedores.
+
+- O sistema deverá incluir testes para validação de suas funcionalidades principais.
+-  ser implementados testes unitários para verificar o funcionamento de componentes individuais.
+- Sempre que possível, deverão ser realizados testes de integração para validar a comunicação entre diferentes partes do sistema.
+- Os testes deverão ser executados regularmente durante o processo de desenvolvimento.
+
 
 ---
