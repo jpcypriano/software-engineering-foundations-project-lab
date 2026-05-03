@@ -169,9 +169,9 @@ Liste os principais envolvidos:
 - As alterações no código deverão ser registradas por meio de commits organizados e documentados.
 
 - O desenvolvimento do sistema deverá seguir padrões de codificação.
-O código deverá utilizar nomenclaturas padronizadas para variáveis, funções e estruturas.
-O projeto deverá manter uma estrutura organizada de arquivos e módulos.
-O código deverá ser documentado sempre que necessário para facilitar o entendimento por outros desenvolvedores.
+- O código deverá utilizar nomenclaturas padronizadas para variáveis, funções e estruturas.
+- O projeto deverá manter uma estrutura organizada de arquivos e módulos.
+- O código deverá ser documentado sempre que necessário para facilitar o entendimento por outros desenvolvedores.
 
 - O sistema deverá incluir testes para validação de suas funcionalidades principais.
 -  ser implementados testes unitários para verificar o funcionamento de componentes individuais.
