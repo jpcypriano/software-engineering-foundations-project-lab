@@ -18,23 +18,32 @@ Liste termos importantes utilizados no documento.
 ##  2. Product Vision
 
 ### 2.1 Problema
-Qual problema o sistema resolve?
+Em 2023, o Brasil registrou mais de 341 mil acidentes com animais peçonhentos, alta de 16% em relação ao ano anterior, segundo o Ministério da Saúde. O Instituto Butantan aponta que trabalhadores rurais estão entre os mais atingidos e que o tempo entre a picada e o atendimento é fator decisivo para a gravidade do caso. A falta de informação acessível sobre identificação de animais e procedimentos de emergência agrava diretamente esse cenário.
 
 ### 2.2 Solução
-Descreva a solução proposta.
+O Serpy é uma plataforma digital mobile e web que reúne identificação de animais peçonhentos, orientação em emergências, monitoramento de áreas de risco e educação preventiva em um único ambiente acessível a qualquer pessoa.
 
 ### 2.3 Público-Alvo
-Quem utilizará o sistema?
+- Trabalhadores rurais, maior grupo de vítimas de acidentes no Brasil
+- Profissionais de saúde, bombeiros, policiais e agentes ambientais
+- Moradores de áreas urbanas próximas à vegetação
+- Comunidades com acesso limitado a serviços de saúde
+- Estudantes e população em geral
 
 ### 2.4 Proposta de Valor
-Por que esse sistema é importante?
+A OMS classifica acidentes com animais peçonhentos como doença tropical negligenciada, e o Brasil se comprometeu a reduzir em 50% a mortalidade ofídica até 2030. O Serpy contribui para esse objetivo levando informação confiável e orientação de emergência para qualquer pessoa com um smartphone, reduzindo o tempo de resposta em situações críticas.
 
 ### 2.5 Diferencial
-O que torna esse sistema melhor que outros?
+Soluções existentes são fragmentadas — sites informativos sem geolocalização, apps educativos sem modo emergência, conteúdos em redes sociais sem confiabilidade. O Serpy integra tudo em um único ambiente, com funcionamento offline para regiões com conexão limitada.
 
 ### 2.6 Funcionalidades principais (alto nível)
-- Funcionalidade 1
-- Funcionalidade 2
+- Funcionalidade 1: Catálogo de animais peçonhentos com identificação por seleção manual ou imagem
+- Funcionalidade 2: Modo emergência com instruções de primeiros socorros e triagem por sintomas
+- Funcionalidade 3: Mapa colaborativo de ocorrências com alertas de risco por geolocalização
+- Funcionalidade 4: Módulo educacional com conteúdos, quizzes e certificados
+- Funcionalidade 5: Sistema de gamificação com pontuação, badges e ranking de usuários
+- Funcionalidade 6: Painel administrativo para gestão de usuários, conteúdos e estatísticas
+- Funcionalidade 7: Funcionamento offline com sincronização automática ao restabelecer conexão
 
 ---
 
