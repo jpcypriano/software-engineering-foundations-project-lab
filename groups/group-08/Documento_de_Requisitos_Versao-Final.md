@@ -228,8 +228,14 @@ Dessa forma, o sistema integra praticidade, educação e tecnologia, oferecendo 
 ##  7. Requisitos Externos
 
 ### 7.1 Reguladores
-- LGPD  
-- Normas específicas  
+O sistema deverá seguir regulamentações e diretrizes relacionadas à proteção de dados e segurança da informação.
+
+- Conformidade com a **LGPD (Lei Geral de Proteção de Dados)**.
+- Proteção de dados pessoais dos usuários.
+- Consentimento para coleta de informações e localização.
+- Adequação a normas de segurança digital e armazenamento de dados.
+- Adequação às diretrizes do Ministério da Saúde relacionadas à divulgação de informações sobre acidentes com animais peçonhentos.
+
 
 ### 7.2 Éticos
 - Não discriminação  
