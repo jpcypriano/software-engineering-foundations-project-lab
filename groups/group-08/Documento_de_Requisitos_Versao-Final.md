@@ -238,8 +238,14 @@ O sistema deverá seguir regulamentações e diretrizes relacionadas à proteç�
 
 
 ### 7.2 Éticos
-- Não discriminação  
-- Transparência  
+
+- O sistema deverá garantir que todos os usuários tenham acesso igual às funcionalidades do aplicativo, sem distinção de idade, gênero, raça ou condição social.
+- O aplicativo deverá apresentar conteúdos educativos utilizando linguagem respeitosa e inclusiva.
+- O conteúdo educativo deverá representar diferentes regiões e contextos do Brasil de forma imparcial.
+- O aplicativo deverá apresentar informações confiáveis sobre animais peçonhentos, baseadas em fontes oficiais ou especialistas.
+- O sistema deverá explicar de forma simples como os dados dos usuários serão utilizados e armazenados.
+- O aplicativo deverá apresentar referências ou fontes utilizadas nos conteúdos educativos sempre que possível.
+- O sistema deverá informar claramente que o aplicativo possui finalidade educativa e preventiva.
 
 ### 7.3 Legais
 - Leis aplicáveis  
