@@ -248,7 +248,7 @@ O sistema deverá seguir regulamentações e diretrizes relacionadas à proteç�
 - O sistema deverá informar claramente que o aplicativo possui finalidade educativa e preventiva.
 
 ### 7.3 Legais
-- O sistema deverá atender às legislações brasileiras aplicáveis ao desenvolvimento e utilização de sistemas digitais, especialmente aquelas relacionadas à proteção de dados, direitos digitais e responsabilidade sobre informações disponibilizadas ao usuário.
+ O sistema deverá atender às legislações brasileiras aplicáveis ao desenvolvimento e utilização de sistemas digitais, especialmente aquelas relacionadas à proteção de dados, direitos digitais e responsabilidade sobre informações disponibilizadas ao usuário.
 - Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018)
 Responsável pela regulamentação da coleta, armazenamento, processamento e compartilhamento de dados pessoais dos usuários.
 - Marco Civil da Internet (Lei nº 12.965/2014)
