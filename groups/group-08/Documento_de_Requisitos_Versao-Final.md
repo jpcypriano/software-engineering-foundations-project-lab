@@ -284,7 +284,7 @@ O sistema deverá implementar mecanismos de segurança voltados à proteção co
 
 *Upload de arquivos maliciosos.
 
--O sistema deverá limitar tentativas consecutivas de login inválidas, podendo bloquear temporariamente o acesso após múltiplas falhas de autenticação.
+- O sistema deverá limitar tentativas consecutivas de login inválidas, podendo bloquear temporariamente o acesso após múltiplas falhas de autenticação.
 
 - O sistema deverá validar e sanitizar todos os dados recebidos de usuários antes do processamento ou armazenamento.
 
