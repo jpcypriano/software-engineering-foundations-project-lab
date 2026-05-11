@@ -248,7 +248,23 @@ O sistema deverá seguir regulamentações e diretrizes relacionadas à proteç�
 - O sistema deverá informar claramente que o aplicativo possui finalidade educativa e preventiva.
 
 ### 7.3 Legais
-- Leis aplicáveis  
+- O sistema deverá atender às legislações brasileiras aplicáveis ao desenvolvimento e utilização de sistemas digitais, especialmente aquelas relacionadas à proteção de dados, direitos digitais e responsabilidade sobre informações disponibilizadas ao usuário.
+- Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018)
+Responsável pela regulamentação da coleta, armazenamento, processamento e compartilhamento de dados pessoais dos usuários.
+- Marco Civil da Internet (Lei nº 12.965/2014)
+Define princípios, garantias, direitos e deveres para o uso da internet no Brasil, incluindo privacidade e proteção de registros dos usuários.
+- Código de Defesa do Consumidor (Lei nº 8.078/1990)
+Aplicável na transparência das informações fornecidas aos usuários e responsabilidade sobre os serviços digitais disponibilizados.
+- Lei de Direitos Autorais (Lei nº 9.610/1998)
+Relacionada ao uso legal de imagens, conteúdos educativos, materiais gráficos e demais mídias utilizadas no sistema.
+- Constituição Federal de 1988 - Artigo 5º
+Garantia dos direitos fundamentais relacionados à privacidade, intimidade e proteção de dados pessoais.
+- Normas e diretrizes do Ministério da Saúde
+Aplicáveis à divulgação de informações educativas e preventivas sobre acidentes com animais peçonhentos.
+- Normas de Segurança da Informação (ISO/IEC 27001 - referência recomendada)
+Utilizadas como referência para boas práticas de segurança digital, proteção e gerenciamento de informações.
+- Diretrizes de acessibilidade digital (WCAG e eMAG)
+Recomendadas para garantir acessibilidade e inclusão de usuários com deficiência no sistema.
 
 ### 7.4 Segurança Externa
 - Proteção contra ataques  
