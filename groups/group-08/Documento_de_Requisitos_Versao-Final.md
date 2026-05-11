@@ -267,8 +267,56 @@ Utilizadas como referência para boas práticas de segurança digital, proteçã
 Recomendadas para garantir acessibilidade e inclusão de usuários com deficiência no sistema.
 
 ### 7.4 Segurança Externa
-- Proteção contra ataques  
-- Auditorias  
+
+O sistema deverá implementar mecanismos de segurança voltados à proteção contra ameaças externas, acessos não autorizados, vazamento de dados e ataques cibernéticos, garantindo a integridade, disponibilidade e confidencialidade das informações armazenadas.
+
+- O sistema deverá utilizar comunicação segura por meio do protocolo HTTPS/TLS em todas as requisições realizadas entre cliente e servidor.
+
+- O sistema deverá possuir mecanismos de proteção contra ataques comuns em aplicações web, incluindo:
+
+*SQL Injection;
+
+*Cross-Site Scripting (XSS);
+
+*Cross-Site Request Forgery (CSRF);
+
+*Brute Force;
+
+*Upload de arquivos maliciosos.
+
+-O sistema deverá limitar tentativas consecutivas de login inválidas, podendo bloquear temporariamente o acesso após múltiplas falhas de autenticação.
+
+- O sistema deverá validar e sanitizar todos os dados recebidos de usuários antes do processamento ou armazenamento.
+
+- O sistema deverá utilizar autenticação segura e controle de permissões baseado em níveis de acesso:
+
+*Usuário comum;
+
+*Profissional;
+
+*Administrador.
+
+- O sistema deverá registrar logs de segurança contendo:
+
+*Tentativas de login;
+
+*Alterações importantes no sistema;
+
+*Acessos administrativos;
+
+*Falhas e erros críticos.
+
+- Os logs de segurança deverão ser armazenados de forma protegida e acessíveis apenas por administradores autorizados.
+
+- O sistema deverá possuir mecanismos de backup periódico para prevenção contra perda de dados.
+
+- O sistema deverá realizar auditorias periódicas de segurança para identificação de vulnerabilidades e possíveis falhas no sistema.
+
+- O sistema deverá manter dependências, bibliotecas e frameworks atualizados para reduzir riscos de exploração de vulnerabilidades conhecidas.
+
+- O sistema deverá proteger informações sensíveis dos usuários conforme as diretrizes da LGPD.
+
+- O sistema deverá possuir mecanismos de monitoramento para detectar atividades suspeitas, acessos incomuns ou possíveis tentativas de invasão.  
 
 ### 7.5 Contábeis
 - Registro de transações  
