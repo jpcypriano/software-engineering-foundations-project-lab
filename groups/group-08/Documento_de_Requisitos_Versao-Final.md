@@ -319,7 +319,11 @@ O sistema deverá implementar mecanismos de segurança voltados à proteção co
 - O sistema deverá possuir mecanismos de monitoramento para detectar atividades suspeitas, acessos incomuns ou possíveis tentativas de invasão.  
 
 ### 7.5 Contábeis
-- Registro de transações  
-- Relatórios  
+O sistema deverá manter controle das funcionalidades financeiras e registros administrativos, caso existam serviços pagos.
 
+- Registro de transações relacionadas a cursos e certificados.
+- Geração de relatórios financeiros básicos.
+- Histórico de pagamentos realizados.
+- Controle de assinaturas e funcionalidades premium.
+- Armazenamento seguro de comprovantes e registros administrativos.
 ---
