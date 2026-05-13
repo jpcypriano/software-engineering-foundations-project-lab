@@ -53,6 +53,7 @@ A solução pode ser utilizada em:
 - Geolocalização (Mapas)
 - Inteligência Artificial para reconhecimento por imagem
 - GitHub para versionamento
+- Flutter na linguagem Dart (Frontend)
 
 ---
 
