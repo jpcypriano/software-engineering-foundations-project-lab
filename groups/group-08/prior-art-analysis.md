@@ -7,10 +7,14 @@ Embora existam soluções voltadas à identificação de serpentes e orientaçã
 ## Soluções Encontradas
 
 ### Solução 1
-- Nome:
-- Link:
+- Nome: Avenom
+- Link: www.avenom.org
 - Diferenças para nossa proposta:
-
+- Abrange outros animais peçonhentos, não só cobras (escorpiões, aranhas etc.)
+- Tem mapa colaborativo de ocorrências
+- Inclui gamificação e cursos
+- Pode atender escolas, trabalhadores rurais e órgãos públicos
+- Permite análise regional com dados locais
 ---
 
 ### Solução 2
